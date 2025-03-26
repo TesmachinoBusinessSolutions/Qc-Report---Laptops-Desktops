@@ -1,3 +1,5 @@
+# README: exxtendit_qc.sh
+
 #!/bin/bash
 
 # Source the prep.sh script to set up the environment
@@ -199,3 +201,5 @@ while true; do
             
     esac
 done
+
+
