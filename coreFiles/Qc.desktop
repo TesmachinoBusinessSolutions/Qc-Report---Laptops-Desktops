@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=PreQC
+Comment=In House Pre qc script
+Exec=pkexec /bin/bash /ExxtendIT_Nas_Share/Scripts/coreFiles/exxtendit_qc
+Icon=gteacup.png
+Terminal=false
+StartupNotify=false
+Categories=Application;
